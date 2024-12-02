@@ -37,7 +37,7 @@ This project implements an **incremental algorithm** for creating **Delaunay tri
 
 ### Prerequisites
 
-- **Programming Language**: [Specify language, e.g., C++, Python]
+- **Programming Language**: C++
 - **Libraries/Dependencies**:
   - [List of required libraries/tools]
 
@@ -45,4 +45,4 @@ This project implements an **incremental algorithm** for creating **Delaunay tri
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/MaddalenaGhiotti/DelaunayProject.git
