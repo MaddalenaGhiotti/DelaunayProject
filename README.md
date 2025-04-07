@@ -41,8 +41,48 @@ This project implements an **incremental algorithm** for creating **Delaunay tri
 - **Libraries/Dependencies**:
   - [List of required libraries/tools]
 
-### Installation
+## Repository Structure
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MaddalenaGhiotti/DelaunayProject.git
+- `Report.pdf`: Technical report with theoretical background, implementation details, and results.
+- `Presentation.pdf` / `Presentation.pptx`: Slide deck summarizing the project.
+- `LICENSE`: MIT License file.
+
+## Requirements
+
+Make sure Python 3.8+ is installed with the following packages:
+
+```bash
+pip install numpy matplotlib
+```
+
+## Running the Project
+
+To run the project:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MaddalenaGhiotti/DelaunayProject.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd DelaunayProject
+```
+
+3. Run the main script (if available):
+
+```bash
+python main.py
+```
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Author
+
+- Maddalena Ghiotti
+- Aldo Sambo
+- Emilio Zorzi
