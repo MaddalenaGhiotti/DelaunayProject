@@ -73,7 +73,7 @@ python main.py
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Author
+## Authors
 
 - Maddalena Ghiotti
 - Aldo Sambo
