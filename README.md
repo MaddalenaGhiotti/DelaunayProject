@@ -35,27 +35,19 @@ This project implements an **incremental algorithm** for creating **Delaunay tri
 
 ## Getting Started
 
+### Repository Structure
+
+- `Report.pdf`: Technical report with theoretical background, implementation details, and results.
+- `Presentation.pdf` / `Presentation.pptx`: Slide deck summarizing the project.
+- `LICENSE`: MIT License file.
+
 ### Prerequisites
 
 - **Programming Language**: C++
 - **Libraries/Dependencies**:
   - [List of required libraries/tools]
 
-## Repository Structure
-
-- `Report.pdf`: Technical report with theoretical background, implementation details, and results.
-- `Presentation.pdf` / `Presentation.pptx`: Slide deck summarizing the project.
-- `LICENSE`: MIT License file.
-
-## Requirements
-
-Make sure Python 3.8+ is installed with the following packages:
-
-```bash
-pip install numpy matplotlib
-```
-
-## Running the Project
+### Running the Project
 
 To run the project:
 
